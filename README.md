@@ -1,3 +1,3 @@
-# Spring Boot Hazelcast Demo
+# sring-boot-hazelcast-demo
 
-Demo application to showcase Spring Boot's Hazelcast support.
+The demo application to showcase spring boot's hazelcast support.
